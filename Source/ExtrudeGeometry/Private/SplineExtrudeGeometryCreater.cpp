@@ -272,3 +272,10 @@ void ASplineExtrudeGeometryCreater::UpdateControlPoints(const TArray<FVector>& U
 
 	CreateExtrudeGeometry();
 }
+
+void ASplineExtrudeGeometryCreater::UpdateExtrudeGeometryWidth(float Width)
+{
+	WidthOfExtrudeGeometry = Width;
+
+	UpdateControlPoints(ControlPoints);
+}

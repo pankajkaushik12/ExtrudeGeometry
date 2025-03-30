@@ -54,6 +54,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "ExtrudeGeometry")
 	void CreateExtrudeGeometry();
 
-	UFUNCTION(BlueprintCallable, Category = "ExtrudeGeometry")
+	UFUNCTION(BlueprintCallable, Category = "Update Geometry")
 	void UpdateControlPoints(const TArray<FVector>& UpdatedControlPoints);
+
+	UFUNCTION(BlueprintCallable, Category = "Update Geometry")
+	void UpdateExtrudeGeometryWidth(float Width);
 };
