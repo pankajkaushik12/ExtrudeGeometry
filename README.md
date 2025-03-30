@@ -121,11 +121,9 @@ void ASplineExtrudeGeometryCreater::CreateExtrudeGeometrySegment(const TArray<FV
 ```
 
 ## Output
-
-![](./Output/Output1.png)
+Link to [Output Video.](https://drive.google.com/file/d/1DKkenS8IG10yuMAXV8WY8eOZli3UV5kk/view?usp=sharing)
 
 ![](./Output/Output2.png)
 
-
-https://drive.google.com/file/d/1DKkenS8IG10yuMAXV8WY8eOZli3UV5kk/view?usp=sharing
+![](./Output/Output1.png)
 
