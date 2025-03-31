@@ -123,8 +123,6 @@ void ASplineExtrudeGeometryCreater::CreateExtrudeGeometrySegment(const TArray<FV
 ## Output
 Link to the [Output Video.](https://drive.google.com/file/d/1DKkenS8IG10yuMAXV8WY8eOZli3UV5kk/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1DKkenS8IG10yuMAXV8WY8eOZli3UV5kk/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ![](./Output/Output2.png)
 
 ![](./Output/Output1.png)
